@@ -11,9 +11,4 @@
         echo $Zwemmers["Zwemmers"];
         echo "<br>";
     }
-array("tijd" => "9.30 "   , "kappersagenda" => "Mevr.Willems"),
-    array("tijd" => "9.45 "  , "kappersagenda" => ""),
-    array("tijd"  => "10.00 " , "kappersagenda" => "Paul van den Broek"),
-    array("tijd" => "10.15 " , "kappersagenda" => "Karel de Meeuw"),
-    array("tijd" => "10.30 " , "kappersagenda" => ""),
 
